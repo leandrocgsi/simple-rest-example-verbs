@@ -5,6 +5,6 @@
 
 # Veja um pouco de teoria a respeito de serviços RESTful em (Sorry still only portuguese):
 
-* [Web Services](href="http://www.semeru.com.br/blog/web-services/)
+* [Web Services](http://www.semeru.com.br/blog/web-services/)
 * [RESTful Web Services](http://www.semeru.com.br/blog/restful-web-services/)
 * [HTTP Status Codes](http://www.semeru.com.br/blog/http-status-codes-em-servicos-rest/)
