@@ -3,6 +3,14 @@
 [![Build Status](https://travis-ci.org/leandrocgsi/simple-rest-example-verbs.svg?branch=master)](https://travis-ci.org/leandrocgsi/simple-rest-example-verbs)
 [![Build Status](https://circleci.com/gh/leandrocgsi/simple-rest-example-verbs.svg?&style=shield)](https://circleci.com/gh/leandrocgsi/simple-rest-example-verbs/)
 
+# How to get this project
+
+You can execute following command or as you prefer [download zip here](https://github.com/leandrocgsi/simple-rest-example-verbs/archive/master.zip) and import in your favourite IDE.
+
+```sh
+git clone https://github.com/leandrocgsi/simple-rest-example-verbs.git
+```
+
 # Em português
 
 * [Web Services](http://www.semeru.com.br/blog/web-services/)
