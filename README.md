@@ -11,8 +11,9 @@ You can execute following command or as you prefer [download zip here](https://g
 git clone https://github.com/leandrocgsi/simple-rest-example-verbs.git
 ```
 
-# Verbs
+# Verbs Level 2 in [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
+When your app adopt Verbs according with [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) this indicates that your API should use the protocol properties in order to deal with scalability and failures. Don't use a single POST method for all, but make use of GET when you are requesting resources, and use the DELETE method when you want to delete a resources. Also, use the response codes of your application protocol. Don't use 200 (OK) code when something went wrong for instance. By doing this for the HTTP application protocol, or any other application protocol you like to use, you have reached level 2.
 
 # Em português
 
